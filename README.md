@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Mariegolepas
+- 👀 I’m interested in developing tools !
+- 🌱 I’m currently learning html, css, js, react & angular
+- 💞️ I’m looking to collaborate on fun and inspirant projects
+- 📫 How to reach me : mariegolepastwitch@gmail.com
